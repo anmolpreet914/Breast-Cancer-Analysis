@@ -4,10 +4,10 @@
 This project involves the analysis of the Breast Cancer dataset, implementation of an Artificial Neural Network (ANN) model, and deployment as an interactive web app using Streamlit.
 
 ## Project Structure
-- `data_preparation.py`: Script for data loading and preprocessing.
-- `feature_selection.py`: Script for feature selection using SelectKBest.
-- `grid_search_cv.py`: Script for hyperparameter tuning using Grid Search CV.
-- `ann_model.py`: Script for training and evaluating the ANN model.
+- Script for data loading and preprocessing.
+- Script for feature selection using SelectKBest.
+- Script for hyperparameter tuning using Grid Search CV.
+- Script for training and evaluating the ANN model.
 - `app.py`: Streamlit app for user interaction and predictions.
 
 ## Setup
